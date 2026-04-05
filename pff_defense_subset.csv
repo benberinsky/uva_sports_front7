@@ -1,4 +1,4 @@
-Player,Position,Team,Total_Snaps,Rush_Snaps,Coverage_Snaps,Overall_Grade,Rush_Grade,Coverage_Grade,Tackles,Assists,Missed_Tackles,Sacks,Hits,Hurries,Pressures
+Player,Position,Team,Total_Snaps,Run_Defense_Snaps,Pass_Rush_Snaps,DEF_Grade,Run_Defense_Grade,Tackling_Grade,Tackles,Assists,Missed_Tackles,Total_Pressures,Sacks,Hits,Hurries
 Jackson Forrest,LB,DOMINION,307,136,56,84.7,63.5,56.5,25,9,7,16,6,1,23
 Sahir West,ED,JAMES MAD,562,228,331,80.5,76.8,80.3,24,10,3,34,9,5,48
 Bryce Deas,LB,AUBURN,185,87,26,74.3,71.2,55.2,10,5,4,8,0,3,11
